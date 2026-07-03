@@ -8,3 +8,36 @@ Instruction:
 - How will you let someone pick more than one thing, like "Dietary preference"?
 - Should the Submit button start out disabled? why or why not?
 
+Plan:
+
+1. Event name: Hackathon Registration Form
+2. Information I need from participants and input type for them -->
+    -Full Name ------------------ text input
+    -Email Address -------------- email
+    -Phone Number --------------- tel
+    -College/University --------- text
+    -Department ----------------- text
+    -Year of Study -------------- dropdown
+    -Programming Experience ----- dropdown
+    -T-shirt Size --------------- radio buttons
+    -Dietary Preference --------- checkboxes
+    -Agree to Terms & Conditions- checkboxes
+    -Submit --------------------- submit button
+
+Qustion no 3: For T-shirt size, is radio better or dropdown - why?
+Answer: For T-shirt size Radio buttons are better because
+        -There are few choices
+        -All options are immidiately visible
+        -Easier and faster to select
+
+        Here i do not prefere dropdown because
+        -Here is only few options thats why i do not choose dropdown for this options
+        -Not faster to select
+        -Not easier to copare options
+
+Question no 4: How will you let someone pick more than one thing, like "Dietary preference"?
+Answer: Suppose someone is vegitarian, halal, non vegitarian, allergic etc. if i use radio button they can only chooe one. If i use checkbox they can choose multiple.
+
+
+Qustionno 5: Should the Submit button start out disabled? why or why not?
+Answer: At first disabled, enable it after Required fields are filled, User agrees to terms. It can prevent invalid subission, it guides users.
