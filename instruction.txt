@@ -1,0 +1,10 @@
+Task - Event Registration Form
+Build a registration form for an event(e.g. a workshop, hackathon, or concert)
+
+Instruction:
+- What the event is about, and what information you actually need to collect for it.
+- Which fields need a text input, which need a dropdown, which need radio buttons, which need checkboxes.
+- For T-shirt size, is radio better or dropdown - why?
+- How will you let someone pick more than one thing, like "Dietary preference"?
+- Should the Submit button start out disabled? why or why not?
+
